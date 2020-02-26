@@ -1,0 +1,41 @@
+abcdef...
+
+binário 01
+
+numérico 123456789
+
+hexadecimal0123456789ABCDEF
+
+RGB = RED GREEN BLUE
+
+# _ _ _ _ _ _ = 2 primeiros representam o vermelho, 2 do meio representam o verde e os 2 últimos representam o azul
+
+0 = Ausência
+
+F = Máximo
+
+#000000 = preto
+
+#FFFFFF = branco
+
+#FF0000 = vermelho
+
+#00FF00 = verde
+
+#0000FF = azul
+
+red
+blue
+yellow
+
+RGB 0,1,2,3,... 255
+
+0 = Ausência
+
+255 = Máximo
+
+rgb(_,_,_) = O primeiro representa o vermelho, o segundo representa o verde e o último representa o azul
+
+rgb(255,255,255) = branco
+
+rgb(0,0,0) = preto
