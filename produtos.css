@@ -27,3 +27,34 @@ nav a {
   text-decoration: none;
   color: #000000;
 }
+
+.produtos {
+  width: 940px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+.produtos li {
+  text-align: center;
+  display: inline-block;
+  padding: 30px 20px;
+  margin: 0 1.5%;
+  width: 30%;
+  box-sizing: border-box;
+  vertical-align: top
+}
+
+.produtos h2 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.produto-descricao {
+  font-size: 18px;
+}
+
+.produto-preco {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 10px;
+}
