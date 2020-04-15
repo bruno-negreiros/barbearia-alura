@@ -227,6 +227,10 @@ thead {
   line-height: 1.5;
 }
 
+.itens:before {
+  content: "🟊";
+}
+
 .itens:first-child {
   font-weight: bold;
 }
